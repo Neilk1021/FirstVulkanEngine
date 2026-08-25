@@ -3,7 +3,7 @@ This repo is *really* messy, and isn't representative of my core software habits
 The main goal of this project wasn't to build anything new, rather it was for me to
 understand how Vulkan works.
 
-### Wait didn't you just copy the Vulkan Tutorial
+### Wait didn't you just copy the Vulkan Tutorial?
 Partially, so how can I "prove" I learned anything? 
 
 Well the main thing is I wrote various detailed notes while working on this. Those notes are also included

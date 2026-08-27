@@ -1,9 +1,9 @@
-# What is a vertex Input?
+# What is a Vertex Input?
 >The vertex input in Vulkan is a [[Fixed Functions|Fixed Function]] with the primary goal of figuring out **"Where am I getting all of my vertices from"** and **"What do my vertices look like?"**
 # How?
-Vertex input is splits this responsibility into two structs `VkVertexInputBindingDescription` and `VkVertexInputAttributeDescription` which I will refer to as bindings and attributes respectively. 
+Vertex inputs splits this responsibility into two structs `VkVertexInputBindingDescription` and `VkVertexInputAttributeDescription` which I will refer to as bindings and attributes respectively. 
 ## Bindings (Where is my data)
->This describes **how** we pull the data and **where** exactly exactly we pull it from.
+>This describes **how** we pull the data and **where** exactly we pull it from.
 
 *The struct is defined as follows:*
 ```c++
